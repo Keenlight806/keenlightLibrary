@@ -26,7 +26,9 @@ with app.app_context():
 main = Blueprint('main', __name__)
 main_blueprint = main
 app.register_blueprint(main_blueprint)
-    
+
+
+
 
 
 class User(db.Model):
