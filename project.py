@@ -9,7 +9,6 @@ from flask import Blueprint, render_template, url_for, request, redirect
 basedir = os.path.abspath(os.path.dirname(__file__))
 
 
-
 app = Flask(__name__)
 
 app.config["SECRET_KEY"] = 'secrete_key'
