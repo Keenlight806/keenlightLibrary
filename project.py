@@ -27,9 +27,6 @@ main_blueprint = main
 app.register_blueprint(main_blueprint)
 
 
-
-
-
 class User(db.Model):
 
     id = db.Column(db.Integer, primary_key=True)
