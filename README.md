@@ -13,3 +13,4 @@ KeenlightLibrary is a web application that allows users to explore curated conte
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python, Flask
 - **Database**: SQLite, SQLAlchemy
+
